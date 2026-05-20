@@ -9,6 +9,7 @@ This repository is a curated map of resources for learning Reinforcement Learnin
 - Below is the basic plan of action. I believe it covers the core topics and conceptual foudations for Reinforcement Learning but you are welcome to modify it according to your preferences and convenience
 - Follow the learning path below broadly in order — each section builds on the previous
 - For each topic, you don't need to exhaust every resource listed. Pick what works for you (textbook, video, or both)
+---
 
 ### 1. Multi-Armed Bandits
 > The simplest RL setting — no states, just decisions under uncertainty.
@@ -18,6 +19,7 @@ Start here. Bandits introduce the central trade-off of RL — **exploration vs e
 **Resources:**
 - Sutton & Barto — Chapter 2 *(primary)*
 - [David Silver Lecture 9](https://www.youtube.com/watch?v=sGuiWX07sKw) — Exploration & Exploitation
+- CS747 - Weeks 1,2 & 3 (lecture videos and slides are both available)
 
 ---
 
@@ -29,6 +31,7 @@ MDPs give you the language of RL — states, actions, rewards, policies, value f
 **Resources:**
 - Sutton & Barto — Chapters 3 & 4 *(primary)*
 - [David Silver Lecture 2](https://www.youtube.com/watch?v=lfHX2hHRMVQ) — MDPs
+- CS747 - Weeks 4,5 & 6
 
 ---
 
@@ -40,6 +43,7 @@ This is core RL. Monte Carlo methods, TD learning, Q-learning, SARSA — these a
 **Resources:**
 - Sutton & Barto — Chapters 5 & 6 *(primary)*
 - [David Silver Lectures 4 & 5](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) — MC & TD Learning
+- CS747 - Weeks 7,8 & 9 
 
 ---
 
@@ -55,20 +59,23 @@ This is where classical RL meets deep learning. Not everyone will reach this in 
 
 ---
 
-## 📚 Primary References
+## Primary References
 
 | Resource | Notes |
 |---|---|
 | [Sutton & Barto — *RL: An Introduction* (2nd ed.)](http://incompleteideas.net/book/the-book-2nd.html) | The standard textbook. Free PDF. This is your primary reference throughout. |
 | [David Silver's UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | Best video companion to the textbook. Use alongside S&B. |
+| [CS747 — IIT Bombay (Spring 2025)](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-s2025/index.html) | Full course following the same path — lecture videos, slides, and past exam problems freely available. Great for structured self-testing. |
+| [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) | For the Deep RL. Pick this up after the tabular foundations are solid. |
+
 
 ---
 
-## 💬 Reaching the Mentor
+##  Reaching the Mentor
 
 If you're stuck on a concept, misunderstanding something, or want to know what to read next — just reach out. That's what this is for.
 
-There's no fixed check-in schedule. You drive the pace.
+
 
 ---
 
