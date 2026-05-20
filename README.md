@@ -79,4 +79,3 @@ If you're stuck on a concept, misunderstanding something, or want to know what t
 
 ---
 
-*Part of the Summer of Science initiative by the Maths and Physics Club.*
