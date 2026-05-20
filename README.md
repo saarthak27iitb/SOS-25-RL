@@ -67,12 +67,10 @@ This is where classical RL meets deep learning. Not everyone will reach this in 
 | [Sutton & Barto — *RL: An Introduction* (2nd ed.)](http://incompleteideas.net/book/the-book-2nd.html) | The standard textbook. Free PDF. This is your primary reference throughout. |
 | [David Silver's UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | Best video companion to the textbook. Use alongside S&B. |
 | [CS747 — IIT Bombay (Spring 2025)](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-s2025/index.html) | Full course following the same path — lecture videos, slides, and past exam problems |
-| [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) | For the Deep RL. Pick this up after the tabular foundations are solid. |
+| [Grokking Deep Reinforcement Learning](https://www.inf.u-szeged.hu/~korosig/teach/books/Miguel%20Morales%20-%20Grokking%20Deep%20Reinforcement%20Learning%20(2020,%20Manning%20Publications)%20-%20libgen.li.pdf) | For the Deep RL. Pick this up after the tabular foundations are solid. |
 
 
 ---
-
-##  Reaching the Mentor
 
 If you're stuck on a concept, misunderstanding something, or want to know what to read next — just reach out. That's what this is for.
 
