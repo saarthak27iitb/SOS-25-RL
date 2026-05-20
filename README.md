@@ -6,7 +6,7 @@ This repository is a curated map of resources for learning Reinforcement Learnin
 
 ## How to use this
 
-- Below is the basic plan of action. I believe it covers the core topics and conceptual foudations for Reinforcement Learning but you are welcome to modify it according to your preferences and convenience
+- Below is the basic plan of action. I believe it covers the core topics and conceptual foundations for Reinforcement Learning but you are welcome to modify it according to your preferences and convenience
 - Follow the learning path below broadly in order — each section builds on the previous
 - For each topic, you don't need to exhaust every resource listed. Pick what works for you (textbook, video, or both)
 ---
@@ -65,7 +65,7 @@ This is where classical RL meets deep learning. Not everyone will reach this in 
 |---|---|
 | [Sutton & Barto — *RL: An Introduction* (2nd ed.)](http://incompleteideas.net/book/the-book-2nd.html) | The standard textbook. Free PDF. This is your primary reference throughout. |
 | [David Silver's UCL Lectures](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | Best video companion to the textbook. Use alongside S&B. |
-| [CS747 — IIT Bombay (Spring 2025)](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-s2025/index.html) | Full course following the same path — lecture videos, slides, and past exam problems freely available. Great for structured self-testing. |
+| [CS747 — IIT Bombay (Spring 2025)](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-s2025/index.html) | Full course following the same path — lecture videos, slides, and past exam problems |
 | [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) | For the Deep RL. Pick this up after the tabular foundations are solid. |
 
 
