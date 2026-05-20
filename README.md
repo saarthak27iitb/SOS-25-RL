@@ -55,6 +55,7 @@ This is where classical RL meets deep learning. Not everyone will reach this in 
 **Resources:**
 - Sutton & Barto — Chapters 9 & 10
 - [David Silver Lecture 6](https://www.youtube.com/watch?v=UoPei5o4fps) — Value Function Approximation
+- - [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) — pick this up once the tabular foundations feel solid
 - [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/abs/1312.5602) — the original DQN paper *(optional, for the curious)*
 
 ---
